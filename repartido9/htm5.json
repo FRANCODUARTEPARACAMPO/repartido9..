@@ -1,0 +1,32 @@
+[
+    {
+    "ubicacion": "Aguada", 
+    "costo":15.000
+    },
+ 
+    {
+  
+      "ubicacion":"Palermo" , 
+    "costo":60.000
+    },
+    
+   
+    {
+
+       "ubicacion ":"cerro", 
+      " costo" :1000
+    },
+    
+    {
+      "ubicacion":"borro",
+      " costo " : 500 
+    },
+
+    {
+
+      "ubicacion": "las torres" ,
+      "costo":15000
+    }
+       
+  
+]
